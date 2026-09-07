@@ -1,4 +1,3 @@
-readme_content = """# Road Tax Renewal Tracker & Automated Alert System
 
 An automated Google Sheets solution designed for car insurance agents and individual owners to track road tax / insurance expiry dates, maintain renewal statuses, and receive daily automated email reminders directly to their phone when a policy is expiring.
 
